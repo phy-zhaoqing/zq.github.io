@@ -1,37 +1,43 @@
-## 赵庆的个人主页
+## 教育背景
 
-You can use the [editor on GitHub](https://github.com/phy-zhaoqing/zq.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+2018.09-至今  浙江大学，物理学，本科
+- 在校获奖：浙江大学二等奖学金 * 1、国家励志奖学金 * 2
+- 学习成绩：绩点80.14
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 过往经历
 
-### Markdown
+- 粒子物理中的解析和数值方法，毕业设计 2021.10 - 至今
+-- 描述：使用机器学习等数值方法，区分 ZH 过程中的 signal 和 background
+-- 我的职责：阅读领域相关文献，并运用专业软件分析生成的事例数据。
+-- 成果：已完成部分基本内容的学习，准备进行最后的 ZH 事例数据生成及分析。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 半导体物理的基本原理大作业 2021.9 - 2021.10
+-- 描述：用程序实现：使用赝势法计算半导体能带
+-- 我的职责：基于赝势法，使用 matlab，计算半导体 Si 和 GaAs 的能带。
+-- 成果：得到了这两类直接半导体和间接半导体的能带图，并得到能隙，对半导体的能带有了更深的理解。
 
-```markdown
-Syntax highlighted code block
+- 汇编语言程序设计基础期末大作业 2021.5 - 2021.6
+-- 描述：针对一个较复杂的 hexfile 读取文件程序，将用 C 语言实现改为汇编语言实现
+-- 我的职责：掌握编译软件的函数接口，熟练使用模块化调试方法以及混合编程，将 C 语言转化为汇编语言。
+-- 成果：完成任务，最终的汇编程序完全复刻源程序功能。
 
-# Header 1
-## Header 2
-### Header 3
+-物理学实验 III 科研训练 2020.7 - 2020.8
+-- 描述：针对小奇数 15，代码实现量子算法中的 Shor 算法。
+-- 我的职责：研究 Shor 算法、量子门电路以及两者的结合。
+-- 成果：完成两者的结合，加深了对量子门电路以及量子算法的理解，明确了量子算法有一定的随机性。
 
-- Bulleted
-- List
+## 专业技能
 
-1. Numbered
-2. List
+- 计算机方面：
+- - 熟练使用汇编语言、C、Python、matlab、LaTeX，熟悉 Linux 环境
+- 英语成绩：
+- - 六级495
 
-**Bold** and _Italic_ and `Code` text
+## 比赛获奖
 
-[Link](url) and ![Image](src)
-```
+- 浙江大学物理学术竞赛三等奖 2020
+- 全国大学生数学竞赛一等奖（初赛）2019
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/phy-zhaoqing/zq.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
